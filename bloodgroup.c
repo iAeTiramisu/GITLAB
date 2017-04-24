@@ -46,9 +46,5 @@ void main()
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
   printf("Goodbye\n");
-<<<<<<< HEAD
-  printf("Edit by Benz\n");
-=======
-  printf("Edit by Benzz\n");
->>>>>>> 9608b782a89f9e6fc7bdc69e933238dc343e1681
+
 }
