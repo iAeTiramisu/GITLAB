@@ -1,4 +1,4 @@
-#include <stdio.h>
+за#include <stdio.h>
 #include <string.h>
 void main()
 { char Name[40], G[5], answer[10];
@@ -7,7 +7,7 @@ void main()
   {
     printf("What is your Name? ");
     scanf("%s", Name);
-    printf("I'm Doraemon\n");
+    printf("I'm changmam\n");
     do
     {
       printf("What is your blood group [A, B, AB, or O]? ");
