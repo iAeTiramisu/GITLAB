@@ -1,4 +1,4 @@
-#include <stdio.h>
+?#include <stdio.h>
 #include <string.h>
 void main()
 { char Name[40], G[5], answer[10];
