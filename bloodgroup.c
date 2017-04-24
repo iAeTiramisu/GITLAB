@@ -7,7 +7,7 @@ void main()
   {
     printf("What is your Name? ");
     scanf("%s", Name);
-    printf("I'm Air423\n");
+    printf("I'm Batman\n");
     do
     {
       printf("What is your blood group [A, B, AB, or O]? ");
@@ -46,5 +46,4 @@ void main()
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
   printf("Goodbye\n");
-
 }
